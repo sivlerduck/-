@@ -1,3 +1,3 @@
 # first
-the first item
-这是第一次使用github，今天要学会github的使用
+the first i
+还是有点没有看明白
